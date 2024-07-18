@@ -1,0 +1,5 @@
+Este perfil podría activar G-Sync (claro, si tu monitor lo admite), si tu monitor no es compatible con G-Sync/FreeSync.
+Desactívalo desde el panel de control de NVIDIA.
+
+This profile MIGHT enable G-Sync for you (if your monitor supports it),
+If it enables G-Sync for you but you don't use G-Sync, turn it off from the 'Setup G-Sync' tab in NVIDIA Control Panel.
