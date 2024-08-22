@@ -15,7 +15,6 @@ Prioridad Win32: Ajustes para ajustar las prioridades de los procesos Win32, mej
 
 Estos ajustes están probados para ofrecer mejoras en la experiencia de usuario de Windows, optimizando desde el rendimiento del hardware hasta la gestión del sistema operativo. Úsalos para personalizar y mejorar tu configuración de Windows según tus necesidades y disfruta de un sistema más rápido y eficiente.
 
-Por favor, y AMABLEMENTE, si va a redistribuir o revender este archivo de alguna manera, dé el crédito correspondiente ya que trabajé en esto durante meses <3
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -33,4 +32,3 @@ Control Panel: Tweaks that customize and optimize Windows Control Panel settings
 
 Win32 Priority: Adjustments to fine-tune Win32 process priorities, enhancing resource allocation and system response in critical applications.
 
-Please and KINDLY if you are going to re-distribute or re-sell this file in any way please give proper credit since I worked on this for months <3
